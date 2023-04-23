@@ -1,0 +1,12 @@
+Quick implimentation of histogram matching.
+
+In image processing, histogram matching is the transformation of an image so that its histogram matches a specified histogram
+
+In this implementation the specified histogram is that of a target image.
+
+It was a quick implementation for the purpose of exam revision so is not at all optimised.
+
+To run
+put the target image in the target folder
+put input images in the inputs folder 
+run the script hist_match.m
